@@ -10,3 +10,8 @@ The project is a simple website built on HTML:
  - displays individual recipes
  - has basic relative path navigation
  - added images
+
+ CSS styling will be added later to the project!
+
+ ## Demo
+ Check out the recipe site [here](https://juhana-peltomaa.github.io/odin-recipes/)

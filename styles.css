@@ -1,4 +1,13 @@
 img {
     height: auto;
-    width: 500px;
-  }
+    width: 250px;
+}
+
+p, li {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
